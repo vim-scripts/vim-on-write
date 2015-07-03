@@ -1,0 +1,6 @@
+:CancelOnWrite	vimonwrite.txt	/*:CancelOnWrite*
+:OnWrite	vimonwrite.txt	/*:OnWrite*
+:OnWriteGlob	vimonwrite.txt	/*:OnWriteGlob*
+vimonwrite	vimonwrite.txt	/*vimonwrite*
+vimonwrite-description	vimonwrite.txt	/*vimonwrite-description*
+vimonwrite.txt	vimonwrite.txt	/*vimonwrite.txt*
